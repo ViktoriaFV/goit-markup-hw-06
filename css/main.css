@@ -950,22 +950,22 @@ ul
 }
 
 .box::before {
-    background-image: url(../img/Vector.png);
+    background-image: url(/goit-markup-hw-06/img/Vector.png);
     
 }
 .box1::before {
-       background-image: url(../img/Vector1.png);
+       background-image: url(/goit-markup-hw-06/img/Vector1.png);
     }
 
 .boxx::before {
    
-    background-image: url(../img/Vector2.png);
+    background-image: url(/goit-markup-hw-06/img/Vector2.png);
    
 }   
 
 .boxxx::before {
     
-       background-image: url(../img/astronaut1.png) ;
+       background-image: url(/goit-markup-hw-06/img/astronaut1.png) ;
     }
 .it:before{margin-right: 0;}
 
@@ -1203,7 +1203,7 @@ textarea
 .form-contract:checked ~ .checbo
 {
     
-    background-image: url('/img/icon\ check.svg');
+    background-image: url('/goit-markup-hw-06/img/icon\ check.svg');
     background-size:contain ;
     background-origin: border-box;
 }
