@@ -1157,10 +1157,10 @@ textarea
 
 
 
-.iconn
+.iconb
 {
    position: absolute;
-   top: 70%;
+   top: 50%;
    left: 0;
    width: 13px;
    height: 13px;
@@ -1181,7 +1181,7 @@ textarea
     outline:none;
   
 }
-.form-description:focus ~ .iconn
+.form-description:focus ~ .iconb
 
 {
     fill: #2196F3;
