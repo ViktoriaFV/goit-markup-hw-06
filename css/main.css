@@ -45,7 +45,7 @@ ul
     color: #2196F3;
     transition-property: color;
     transition-timing-function: var(--time-fuction);
-    transition-duration: 5s;
+    transition-duration: 250ms; 
   }
 
 
